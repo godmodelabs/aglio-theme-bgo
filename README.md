@@ -13,7 +13,7 @@ repo contains a modified version of olio. Changes:
 
 ## Preview
 
-[Collapsed view](screenshot.png)
+![Collapsed view](screenshot.png)
 
 ## Quick start
 
