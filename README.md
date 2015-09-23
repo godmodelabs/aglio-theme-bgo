@@ -20,7 +20,7 @@ repo contains a modified version of olio. Changes:
 Install aglio: `npm install -g aglio`.
 
 Install this theme (maybe eventually via npm, but let's not get ahead of
-ourselved).
+ourselves here).
 
 Run: `aglio -t otto -i docs.apib -o docs.html`
 
