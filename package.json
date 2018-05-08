@@ -1,6 +1,6 @@
 {
-  "name": "aglio-theme-otto",
-  "version": "1.0.0",
+  "name": "aglio-theme-bgo",
+  "version": "0.0.1",
   "description": "Compact theme for the Aglio API Blueprint renderer",
   "main": "lib/main.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/osievert/aglio-theme-otto"
+    "url": "https://github.com/godmodelabs/aglio-theme-bgo"
   },
   "keywords": [
     "api",
@@ -27,12 +27,12 @@
     "parse",
     "markdown"
   ],
-  "author": "Otto Sievert",
+  "author": "Thomas Lukacs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/osievert/aglio-theme-otto/issues"
+    "url": "https://github.com/godmodelabs/aglio-theme-bgo/issues"
   },
-  "homepage": "https://github.com/osievert/aglio-theme-otto",
+  "homepage": "https://github.com/godmodelabs/aglio-theme-bgo",
   "dependencies": {
     "coffee-script": "^1.8.0",
     "highlight.js": "^8.4.0",
